@@ -1,0 +1,4 @@
+[
+        { "caption": "Snipplr: Search for a snippet", "command": "snipplr_insert" },
+        { "caption": "Snipplr: Upload a snippet", "command": "snipplr_upload" }
+]
